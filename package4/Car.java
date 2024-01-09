@@ -31,6 +31,8 @@ public class Car extends Vehicle {
 		System.out.println("Make: "  +  getMake());
 		System.out.println("Moldel: " + getModel());
 		System.out.println("Year: " + getYear());
+		System.out.println("Color: "  + getColor());
+		System.out.println("Engine: "+ getEngine());
 	}
 	
 	
